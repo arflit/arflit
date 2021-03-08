@@ -1,4 +1,5 @@
-### Hi there 👋
+### Меня зовут Аркадий, и я учусь делать сайты.
+
 
 <!--
 **konjvpaljto/konjvpaljto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
