@@ -3,7 +3,7 @@
 - организовываю структуру файлов по БЭМ
 - [пишу](https://github.com/konjvpaljto/mesto) обьектно-ориентированный код на JavaScript в спецификации ES6
 - собираю проект WebPack-ом с использованием Бабеля и PostCSS
-- [делаю](https://github.com/konjvpaljto/react-mesto-auth) SPA на React при помощи React Router с использованием хуков
+- [делаю](https://github.com/konjvpaljto/react-mesto-auth) SPA на React с использованием хуков при помощи React Router 
 
 <!--
 **konjvpaljto/konjvpaljto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
