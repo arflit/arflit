@@ -1,5 +1,9 @@
 ### Меня зовут Аркадий, и я учусь делать сайты.
-
+- верстаю при помощи флексов и гридов
+- организовываю структуру файлов по БЭМ
+- пишу обьектно-ориентированный код JavaScript в спецификации ES6
+- собираю проект WebPack-ом с использованием Бабеля и PostCSS
+- делаю SPA на React при помощи React Router с использованием хуков
 
 <!--
 **konjvpaljto/konjvpaljto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
