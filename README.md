@@ -1,14 +1,13 @@
-### Я Аркадий, junior front-end разработчик.
-- работаю в ["MCN Telecom"](https://www.mcn.ru/) 
-- прошёл стажировку в ["Яндекс.Лавке"](https://lavka.yandex.ru)
+### Я Аркадий, front-end разработчик.
+Мне 29, и я чуть больше года в веб-разработке. 
+- работаю в ["MCN Telecom"](https://www.mcn.ru/) над личным кабинетом клиентов - переписываю старые модули с Backbone.js на React.js, пилю новые фичи
+- прошёл стажировку в ["Яндекс.Лавке"](https://lavka.yandex.ru), участвовал в запуске десктопной версии
 - закончил ["Яндекс.Практикум"](https://practicum.yandex.ru/web/) по специальности "Веб-разработка"
-- углубляю свои знания [в "Хекслете"](https://ru.hexlet.io/?ref=352156)
-- интересуюсь общественным транспортом и мюзиклами. 
+- углубляю свои знания в ["Хекслете"](https://ru.hexlet.io/?ref=352156)
 
-Работаю в основном с React.js, пишу на JS/TS, приходится немного ковыряться с легаси на Backbone.js, использую PostCSS, таблицы Tabulator.js, 
+Работаю с React.js, пишу на TypeScript и JavaScript, использую PostCss и Tabulatur.js. 
 
-Чуть-чуть взаимодействовал с Next.js, знаю методологию БЭМ, немного работал со Styled components. Умею делать адаптивную и резиновую вёрстку, знаком с Bootstrap. 
-
+Адаптивно верстаю - как руками так и при помощи Bootstrap, организую структуру вёрстки по БЭМ. 
 <!--
 **konjvpaljto/konjvpaljto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
