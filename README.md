@@ -1,9 +1,12 @@
-### Меня зовут Аркадий, и я учусь делать сайты.
-- адаптивно [верстаю](https://github.com/konjvpaljto/russian-travel) при помощи флексов, гридов и медиазапросов
-- организовываю структуру файлов по БЭМ
-- [пишу](https://github.com/konjvpaljto/mesto) обьектно-ориентированный код на JavaScript в спецификации ES6
-- собираю проект WebPack-ом с использованием Бабеля и PostCSS
-- [делаю](https://github.com/konjvpaljto/react-mesto-auth) SPA на React с использованием хуков при помощи React Router 
+### Я Аркадий, junior front-end разработчик.
+- работаю в ["MCN Telecom"](https://www.mcn.ru/) 
+- прошёл стажировку в ["Яндекс.Лавке"](https://lavka.yandex.ru)
+- закончил ["Яндекс.Практикум"](https://practicum.yandex.ru/web/) по специальности "Веб-разработка"
+- углубляю свои знания [в "Хекслете"](https://ru.hexlet.io/?ref=352156)
+- интересуюсь общественным транспортом и мюзиклами. 
+
+Работаю в основном с React.js, пишу на JS/TS, приходится немного ковыряться с легаси на Backbone.js, использую PostCSS, таблицы Tabulator.js, 
+Чуть-чуть взаимодействовал с Next.js, знаю методологию БЭМ, немного работал со Styled components. Умею делать адаптивную и резиновую вёрстку, знаком с Bootstrap. 
 
 <!--
 **konjvpaljto/konjvpaljto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
