@@ -5,7 +5,7 @@
 - весной 2021 закончил ["Яндекс.Практикум"](https://practicum.yandex.ru/web/) по специальности "Веб-разработка"
 - углубляю свои знания в ["Хекслете"](https://ru.hexlet.io/?ref=352156)
 
-Работаю с React.js, пишу на TypeScript и JavaScript, использую PostCss и Tabulatur.js. 
+Работаю с React.js, пишу на TypeScript и JavaScript, использую PostCss и Tabulator.js. 
 
 Адаптивно верстаю - как руками так и при помощи Bootstrap, организую структуру вёрстки по БЭМ. 
 <!--
