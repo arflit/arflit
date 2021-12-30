@@ -7,7 +7,7 @@
 
 Работаю с React.js, пишу на TypeScript и JavaScript, использую PostCss и Tabulator.js. 
 
-Адаптивно верстаю - как руками так и при помощи Bootstrap, организую структуру вёрстки по БЭМ. 
+Адаптивно верстаю - как руками, так и при помощи Bootstrap, организую структуру вёрстки по БЭМ. 
 <!--
 **konjvpaljto/konjvpaljto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
