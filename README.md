@@ -1,25 +1,14 @@
-### Я Аркадий, front-end разработчик.
-Мне 33, и я пять лет в веб-разработке. 
-- сейчас я работаю в [Яндекс.Еде](https://ya.ru) над внутренними инструментами
-- в 2021-2022 годах работал в ["MCN Telecom"](https://www.mcn.ru/) над личным кабинетом клиентов - переписывал старые модули с Backbone.js на React.js, пилил новые фичи
-- летом 2021 прошёл стажировку в ["Яндекс.Лавке"](https://lavka.yandex.ru), участвовал в запуске десктопной версии Лавки
-- весной 2021 закончил ["Яндекс.Практикум"](https://practicum.yandex.ru/web/) по специальности "Веб-разработка"
-- углубляю свои знания в ["Хекслете"](https://ru.hexlet.io/?ref=352156)
+### Привет, я Аркадий — frontend-разработчик
 
-Работаю с React.js, пишу на TypeScript и JavaScript, использую PostCss и Tabulator.js. 
+С 2021 года занимаюсь веб-разработкой. Основной стек — **React, TypeScript, Redux-Saga**.
 
-Адаптивно верстаю - как руками, так и при помощи Bootstrap, организую структуру вёрстки по БЭМ. 
-<!--
-**konjvpaljto/konjvpaljto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* С 2022 года работаю в [Яндекс Еде](https://ya.ru) над внутренними инструментами и административными интерфейсами.
+* В 2021–2022 работал в [MCN Telecom](https://www.mcn.ru/) над личным кабинетом и виртуальной АТС: разрабатывал новые модули и переносил legacy-код с Backbone.js на React.
+* Летом 2021 прошёл стажировку в [Яндекс Лавке](https://lavka.yandex.ru): работал над WebView-версией приложения и участвовал в запуске веб-версии Лавки.
+* Закончил курс [«Веб-разработчик» Яндекс Практикума](https://practicum.yandex.ru/web/) и проходил модули программы «Фронтенд-разработчик» на [Хекслете](https://ru.hexlet.io/?ref=352156).
 
-Here are some ideas to get you started:
+Работаю с **React, TypeScript, Redux-Saga, JavaScript, HTML/CSS, Stylus, Gravity UI**. Использую Git, работаю с REST API и OpenAPI-спецификациями, пишу и ревьюю frontend-код, работал с Playwright.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+В последние годы активно использую AI-инструменты в разработке — Cursor, Codex и внутренние инструменты Яндекса. В том числе участвую в создании общих для команды skills и инструкций для AI-агентов.
+
+До frontend-разработки много лет работал в технической поддержке и техническом бэкофисе. Этот опыт помогает мне разбираться в проблемах работающих систем и смотреть на интерфейсы с точки зрения реального пользователя.
